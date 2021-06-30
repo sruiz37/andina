@@ -4,3 +4,5 @@ while True:
     
     
     print("ejemplo1")
+    
+    print ("ejemplo 2")
